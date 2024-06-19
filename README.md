@@ -19,16 +19,16 @@ This project is a Todo back-end application built with Node.js,Express, with Mon
 ## API Endpoints
 
 ### User
-- `POST /api/users/register` - Register a new user  
-- `POST /api/users/login` - Login a user
+- `POST /api/users/register` - Register a new user- [Postman Link](https://grey-star-391432.postman.co/workspace/New-Team-Workspace~4486508b-a8a4-424d-bc7e-8e1606b9ebd8/request/31827619-c809c348-720f-48ff-8667-72dacbbf2877)
+- `POST /api/users/login` - Login a user- [Postman Link](https://grey-star-391432.postman.co/workspace/New-Team-Workspace~4486508b-a8a4-424d-bc7e-8e1606b9ebd8/request/31827619-bd6cb400-268c-4d6a-b486-1ccb8f763799)
 
 ### Todo
-- `POST /api/todos/create` - Create a new todo
-- `GET /api/todos/fetch` - List of todos
-- `GET /api/todos` - Get all todos (with pagination and search)
-- `GET /api/todos/:id` - Get a specific todo by ID
-- `PUT /api/todos/:id` - Update a todo
-- `DELETE /api/todos/:id` - Delete a todo
+- `POST /api/todos/create` - Create a new todo- [Postman Link](https://grey-star-391432.postman.co/workspace/New-Team-Workspace~4486508b-a8a4-424d-bc7e-8e1606b9ebd8/request/31827619-1603b860-233e-4a6a-831d-3b07bbee039c)
+- `GET /api/todos/fetch` - List of todos- [Postman Link](https://grey-star-391432.postman.co/workspace/New-Team-Workspace~4486508b-a8a4-424d-bc7e-8e1606b9ebd8/request/31827619-07f2fb7b-c686-4241-9d40-1a6d8dd94368)
+- `GET /api/todos` - Get all todos (with pagination and search) [Postman Link](https://grey-star-391432.postman.co/workspace/New-Team-Workspace~4486508b-a8a4-424d-bc7e-8e1606b9ebd8/request/31827619-bdcff038-a568-4ff0-b35d-815afc5082dc)
+- `GET /api/todos/:id` - Get a specific todo by ID- [Postman Link](https://grey-star-391432.postman.co/workspace/New-Team-Workspace~4486508b-a8a4-424d-bc7e-8e1606b9ebd8/request/31827619-ac17fdfd-b185-488a-b71f-112e0a0b0091)
+- `PUT /api/todos/:id` - Update a todo- [Postman Link](https://grey-star-391432.postman.co/workspace/New-Team-Workspace~4486508b-a8a4-424d-bc7e-8e1606b9ebd8/request/31827619-3dc6c46e-fd07-4002-88ff-dbad5a276971?tab=body)
+- `DELETE /api/todos/:id` - Delete a todo - [Postman Link](https://grey-star-391432.postman.co/workspace/New-Team-Workspace~4486508b-a8a4-424d-bc7e-8e1606b9ebd8/request/31827619-96d4871a-9187-4a81-9c85-14986542fd33)
 
 
 ## Installation
