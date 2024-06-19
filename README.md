@@ -14,8 +14,6 @@ This project is a Todo back-end application built with Node.js,Express, with Mon
 7. Users can tag the todo to pin or make it their favorite.
 8. The user information and todo list are stored in MongoDB.
 
-4. Run `npm start` to start the server
-
 ## API Endpoints
 
 ### User
